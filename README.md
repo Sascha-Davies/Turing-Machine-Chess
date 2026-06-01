@@ -4,3 +4,4 @@ Designed and implemented a python application where each piece operates as a Tur
 Game logic is mainly implemented via these Turing machines 
 
 Developed a tool used to visualise, using the turtle library, Turing machine state diagrams 
+notable state machine includes the queens machine which hosts 43 states and is very complex
